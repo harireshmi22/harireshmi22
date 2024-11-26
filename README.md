@@ -17,8 +17,8 @@
 - Or simply open an **issue** or **pull request** here on GitHub! 📬
 
 ### 💡 My most recent repositories:
-- [Project 1](https://github.com/harireshmi22/project1)
-- [Project 2](https://github.com/harireshmi22/project2)
-- [Project 3](https://github.com/harireshmi22/project3)
+- [Project 1](https://github.com/harireshmi22/Game-Website.git) 
+- [Project 2](https://github.com/harireshmi22/Furniture-Website.git)
+- [Project 3](https://github.com/harireshmi22/Bussiness-website.git)
 
 #### ✨ Let's build something amazing together! ✨
