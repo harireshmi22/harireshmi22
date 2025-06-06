@@ -6,13 +6,13 @@
 ## 🌱 I’m currently learning ...
 I'm diving deep into various technologies and programming languages, particularly:
 - **Web Development** (HTML, CSS, JavaScript, React, Node.js)
-- **Back-End Development** (Express.js, Django, Node.js, REST APIs)
-- **Database Management** (MongoDB, MySQL, PostgreSQL)
+- **Back-End Development** (Express.js, Django, Node.js)
+- **Database Management** (MongoDB)
 - **Version Control** (Git, GitHub)
 - 
 ## 💞️ I’m looking to collaborate on ...
 - **Full Stack Web Development** projects involving both front-end and back-end work
-- Open-source **JavaScript** and **Python** projects
+- Open-source **JavaScript** projects
 - **UI/UX** design and **web performance** optimization
 - Building **RESTful APIs** and **Web Apps** using **React**, **Node.js**, and **Express**
 - Anything fun, challenging, and impactful! 🚀
