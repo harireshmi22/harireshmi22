@@ -6,7 +6,7 @@
 ## 🌱 I’m currently learning ...
 I'm diving deep into various technologies and programming languages, particularly:
 - **Web Development** (HTML, CSS, JavaScript, React, Node.js)
-- **Back-End Development** (Express.js, Django, Node.js)
+- **Back-End Development** (Express.js, Node.js)
 - **Database Management** (MongoDB)
 - **Version Control** (Git, GitHub)
 - 
